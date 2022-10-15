@@ -1,4 +1,3 @@
-# Google firebase Authentication
 /**
  * //INITIAL SETUP
  * 1. visit: console.firebase.google.com
@@ -20,10 +19,17 @@
  * 12. Create a button google sign in method with a click handler
  * 13. inside the event handler, call singInWithPopup with auth, provider 
  * 14. after singInWithPopup .then result , error
- * ---------------------------------------
  *  
+ * -----------------------------
+ * 
  *        DISPLAY DATA
- *
- * ----------------------------------
+ * 
+ * --------------------------------
+ * ADD A NEW SIGN IN METHOD
+ * 
+ * -------------------------
+ * 1. enable the sign in method 
+ * 2. Create github, twitter, fb, etc.. app create
+ * 3. git clientId and secret 
  * 
  */
